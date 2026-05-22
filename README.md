@@ -23,7 +23,7 @@ Verify that Node.js is installed locally on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/blackjack-game.git](https://github.com/yourusername/blackjack-game.git)
+   git clone https://github.com/thapasubham/blackjack-game
 
 2. **Navigate to the root directory:**
   ```
